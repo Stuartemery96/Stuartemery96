@@ -19,13 +19,13 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">A Full Stack Engineer</h2></summary>
+    <summary><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>&nbsp;<h2 style="display: inline-block">A Full Stack Engineer</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🌱 I’m currently enrolled in General Assembly's SE immersive program learning **React**
+- 📚 I’m currently enrolled in General Assembly's SE immersive program learning **React**
 
 <!--Intro end-->
 
@@ -33,7 +33,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">💻 Technologies I Know</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -48,7 +48,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">🤝 Connect With Me</h2></summary>
   </ul>
 </div>
 

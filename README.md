@@ -11,7 +11,7 @@
 <div align=center>
   <h2 align=center>My Contributions</h2>
   <br>
-  <img alt="Animation of snake eating my contributions" src="raw.githubusercontent.com/Stuartemery96/Stuartemery96/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Animation of snake eating my contributions" src="https://raw.githubusercontent.com/Stuartemery96/Stuartemery96/output/github-contribution-grid-snake-dark.svg" />
 </div>  
 
 

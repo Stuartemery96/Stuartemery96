@@ -9,8 +9,7 @@
 </div>
 
 
-![Snake animation]
-(https://github.com/Stuartemery96/Stuartemery96/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Stuartemery96/Stuartemery96/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--h2 without bottom border-->

@@ -8,8 +8,11 @@
   </ul>
 </div>
 
-
-![Snake animation](https://github.com/{{Stuartemery96}}/{{Stuartemery96}}/blob/output/github-contribution-grid-snake.svg)
+<div align=center>
+  <h2 align=center>My Contributions</h2>
+  <br>
+  <img alt="Animation of snake eating my contributions" ser="raw.githubusercontent.com/Stuartemery96/Stuartemery96/output/github-contribution-grid-snake.svg" />
+</div>  
 
 
 <!--h2 without bottom border-->

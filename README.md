@@ -9,10 +9,11 @@
 </div>
 
 <div align=center>
-  <h2 align=center>My Contributions</h2>
+  <h2 align=center>🧐 My Contributions</h2>
   <br>
   <img alt="Animation of snake eating my contributions" src="https://raw.githubusercontent.com/Stuartemery96/Stuartemery96/output/github-contribution-grid-snake-dark.svg" />
 </div>  
+<br>
 
 
 <!--h2 without bottom border-->
@@ -21,7 +22,6 @@
     <summary><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>&nbsp;<h2 style="display: inline-block">A Full Stack Engineer</h2></summary>
   </ul>
 </div>
-
 
 <!--Intro start-->
 - 📚 I’m currently enrolled in General Assembly's SE immersive program learning **React**

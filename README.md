@@ -24,7 +24,7 @@
 </div>
 
 <!--Intro start-->
-- 📚 I’m currently enrolled in General Assembly's SE immersive program learning **React**
+- 📚 I recently graduated from General Assembly's SE immersive program.
 
 <!--Intro end-->
 
@@ -38,7 +38,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,express,github,html,js,materialui,mongodb,postgresql,nodejs,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,express,react,github,html,js,materialui,mongodb,postgresql,nodejs,py,vscode&perline=14" />
   </a>
 </p>
 
